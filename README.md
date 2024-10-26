@@ -17,16 +17,16 @@ I'm a Full Stack Developer focused on building efficient, scalable web applicati
 ## 🛠️ Tech Stack
 
 **Front-End**
-- **Languages**: JavaScript, HTML5, CSS3, TypeScript
-- **Libraries/Frameworks**: React.js, Redux, TailwindCSS, Bootstrap, NextJs, Storybook js
+- **Languages**: JavaScript, HTML5, CSS3
+- **Libraries/Frameworks**: React.js, Redux, TailwindCSS, Bootstrap
 
 **Back-End**
 - **Languages**: Node.js, Express.js
 - **APIs**: RESTful, GraphQL
-- **Authentication**: JWT, OAuth, sha256
+- **Authentication**: JWT, OAuth
 
 **Database**
-- **Databases**: MongoDB, MySQL, PostgreSql
+- **Databases**: MongoDB, MySQL
 
 ---
 
@@ -51,12 +51,22 @@ I'm a Full Stack Developer focused on building efficient, scalable web applicati
 
 ## 🔗 Connect with Me
 
+Feel free to reach out and connect with me! I'm always open to discussing web development, collaboration opportunities, and interesting tech projects.
+
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Keval9247)](https://github.com/Keval9247)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/keval-badarakhiya-879443219)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/keval-badarakhiya-879443219))
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_keval_._05/)](https://www.instagram.com/_keval_._05/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/KevalBadarakhiya)](https://www.facebook.com/KevalBadarakhiya)
+[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white&link=https://dev.to/your-profile)](https://dev.to/your-profile)
+
+- 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/keval-badarakhiya-879443219)
+- 📷 **Instagram**: [@_keval_._05](https://www.instagram.com/_keval_._05/)
+- 👤 **Facebook**: [Keval Badarakhiya](https://www.facebook.com/KevalBadarakhiya)
+- 📝 **Dev.to Blog**: [Keval Badarakhiya](https://dev.to/kevalbadarakhiya)
 
 ---
 
-<!---
-Keval9247/Keval9247 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Whether you’re looking to connect professionally or have a quick chat about web development, feel free to reach out on any of these platforms!
+
+
+---
