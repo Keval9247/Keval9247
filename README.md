@@ -17,16 +17,16 @@ I'm a Full Stack Developer focused on building efficient, scalable web applicati
 ## 🛠️ Tech Stack
 
 **Front-End**
-- **Languages**: JavaScript, HTML5, CSS3
-- **Libraries/Frameworks**: React.js, Redux, TailwindCSS, Bootstrap
+- **Languages**: JavaScript, TypeScript, HTML5, CSS3
+- **Libraries/Frameworks**: React.js, Redux, TailwindCSS, Bootstrap, NextJs, Storybook js
 
 **Back-End**
 - **Languages**: Node.js, Express.js
 - **APIs**: RESTful, GraphQL
-- **Authentication**: JWT, OAuth
+- **Authentication**: JWT, OAuth, sha256
 
 **Database**
-- **Databases**: MongoDB, MySQL
+- **Databases**: MongoDB, MySQL, PostgreSql
 
 ---
 
