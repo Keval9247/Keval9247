@@ -58,7 +58,7 @@ Feel free to reach out and connect with me! I'm always open to discussing web de
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_keval_._05/)](https://www.instagram.com/_keval_._05/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/KevalBadarakhiya)](https://www.facebook.com/KevalBadarakhiya)
 [![Dev.to Badge](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white&link=https://dev.to/your-profile)](https://dev.to/your-profile)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@your-profile)](https://medium.com/@KevalBadarakhiya))
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@your-profile)](https://medium.com/@KevalBadarakhiya)
 
 
 
