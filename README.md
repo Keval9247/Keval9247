@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Keval Badarakhiya (@Keval9247)
 
-I'm a Full Stack Developer focused on building efficient, scalable web applications using the MERN stack. My goal is to create impactful digital experiences through well-structured code and engaging UI.
+I'm a Full Stack Developer focused on building efficient, scalable web applications using the MERN stack. I aim to create impactful digital experiences through well-structured code and engaging UI.
 
 ---
 
@@ -10,7 +10,7 @@ I'm a Full Stack Developer focused on building efficient, scalable web applicati
 - 🌱 **Currently Learning**: Advanced animations, responsive design, and improving my expertise in backend optimization.
 - 💬 **Ask me about**: Full Stack MERN Development, API Integration, Responsive Design, and building intuitive user interfaces.
 - 💞️ **Looking to Collaborate on**: Open-source projects, web development, and any exciting full-stack projects.
-- ⚡ **Fun Fact**: When I'm not coding, I enjoy experimenting with the latest design trends and enhancing user experiences.
+- ⚡ **Fun Fact**: I enjoy experimenting with the latest design trends and enhancing user experiences when I'm not coding.
 
 ---
 
@@ -59,8 +59,8 @@ Feel free to reach out and connect with me! I'm always open to discussing web de
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/KevalBadarakhiya)](https://www.facebook.com/KevalBadarakhiya)
 [![Dev.to Badge](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white&link=https://dev.to/your-profile)](https://dev.to/your-profile)
 
-- 💼 **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/keval-badarakhiya-879443219)
-- 📷 **Instagram**: [@_keval_._05](https://www.instagram.com/_keval_._05/)
+- 💼 **LinkedIn**: [Keval Badarakhiya](https://linkedin.com/in/keval-badarakhiya-879443219)
+- 📷 **Instagram**: [Keval Badarakhiya](https://www.instagram.com/_keval_._05/)
 - 👤 **Facebook**: [Keval Badarakhiya](https://www.facebook.com/KevalBadarakhiya)
 - 📝 **Dev.to Blog**: [Keval Badarakhiya](https://dev.to/kevalbadarakhiya)
 
