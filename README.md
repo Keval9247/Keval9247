@@ -14,6 +14,9 @@ I'm a Full Stack Developer focused on building efficient, scalable web applicati
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Keval9247&color=dc143c)
+
+
 ## 🛠️ Tech Stack
 
 **Front-End**
