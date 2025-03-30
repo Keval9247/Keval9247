@@ -57,17 +57,11 @@ I'm a Full Stack Developer focused on building efficient, scalable web applicati
 Feel free to reach out and connect with me! I'm always open to discussing web development, collaboration opportunities, and interesting tech projects.
 
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Keval9247)](https://github.com/Keval9247)
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/keval-badarakhiya-879443219)]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/keval-badarakhiya-879443219))
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/_keval_._05/)](https://www.instagram.com/_keval_._05/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/KevalBadarakhiya)](https://www.facebook.com/KevalBadarakhiya)
 [![Dev.to Badge](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white&link=https://dev.to/your-profile)](https://dev.to/your-profile)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@your-profile)](https://medium.com/@KevalBadarakhiya)
 
 
 
-- 💼 **LinkedIn**: [Keval Badarakhiya](https://linkedin.com/in/keval-badarakhiya-879443219)
-- 📷 **Instagram**: [Keval Badarakhiya](https://www.instagram.com/_keval_._05/)
-- 👤 **Facebook**: [Keval Badarakhiya](https://www.facebook.com/KevalBadarakhiya)
 - 📝 **Dev.to Blog**: [Keval Badarakhiya](https://dev.to/kevalbadarakhiya)
 
 ---
