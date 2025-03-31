@@ -6,7 +6,6 @@ I'm a Full Stack Developer focused on building efficient, scalable web applicati
 
 ## 👀 About Me
 
-- 🔭 **Currently Working on**: My portfolio and an e-commerce platform called [GrocerGo](https://github.com/Keval9247/GrocerGo-E-commerce-platform)
 - 🌱 **Currently Learning**: Advanced animations, responsive design, and improving my expertise in backend optimization.
 - 💬 **Ask me about**: Full Stack MERN Development, API Integration, Responsive Design, and building intuitive user interfaces.
 - 💞️ **Looking to Collaborate on**: Open-source projects, web development, and any exciting full-stack projects.
@@ -33,17 +32,6 @@ I'm a Full Stack Developer focused on building efficient, scalable web applicati
 
 ---
 
-## 🚀 Projects
-
-- **GrocerGo - E-commerce Platform**  
-  [GitHub Repository](https://github.com/Keval9247/GrocerGo-E-commerce-platform)  
-  A comprehensive e-commerce platform built using the MERN stack, with features like product listing, cart management, and secure checkout.
-
-- **Portfolio Website**  
-  *(Coming Soon!)*  
-  A portfolio to showcase my projects, skills, and experience as a Full Stack Developer.
-
----
 
 ## 📈 GitHub Stats
 
