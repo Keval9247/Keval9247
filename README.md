@@ -1,60 +1,82 @@
 # 👋 Hi, I’m Keval Badarakhiya (@Keval9247)
 
-I'm a Full Stack Developer focused on building efficient, scalable web applications using the MERN stack. I aim to create impactful digital experiences through well-structured code and engaging UI.
+🚀 **Senior-Level Full Stack MERN Developer** specializing in building **scalable, secure, and production-grade web applications**. I help startups and businesses transform ideas into **high-performance digital products** with clean architecture, optimized code, and exceptional user experience.
+
+💼 **Open to Remote Roles & Freelance Opportunities Worldwide**
 
 ---
 
-## 👀 About Me
+## 👨‍💻 Professional Summary
 
-- 🌱 **Currently Learning**: Advanced animations, responsive design, and improving my expertise in backend optimization.
-- 💬 **Ask me about**: Full Stack MERN Development, API Integration, Responsive Design, and building intuitive user interfaces.
-- 💞️ **Looking to Collaborate on**: Open-source projects, web development, and any exciting full-stack projects.
-- ⚡ **Fun Fact**: I enjoy experimenting with the latest design trends and enhancing user experiences when I'm not coding.
+- ✅ **2+ years of hands-on experience** in full stack web development  
+- ✅ Strong focus on **code quality, scalability, and performance optimization**  
+- ✅ Experienced in building **real-world production applications** (SaaS, eCommerce, dashboards)  
+- ✅ Comfortable working with **remote teams, clients, and agile workflows**  
+
+I don’t just write code—I **build reliable systems** that scale.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Keval9247&color=dc143c)
+## 🔥 What I Do Best
 
+- Designing **end-to-end full stack applications**
+- Developing **high-performance React & Next.js frontends**
+- Building **secure and scalable backend APIs**
+- Database modeling & optimization
+- Cloud deployment & production readiness
+- Turning business requirements into **clean, maintainable solutions**
+
+---
 
 ## 🛠️ Tech Stack
 
-**Front-End**
-- **Languages**: JavaScript, TypeScript, HTML5, CSS3
-- **Libraries/Frameworks**: React.js, Redux, TailwindCSS, Bootstrap, NextJs, Storybook js
+### Frontend
+- JavaScript (ES6+), TypeScript  
+- React.js, Next.js (App Router)  
+- Redux Toolkit  
+- Tailwind CSS, Bootstrap, Material UI  
+- Storybook  
 
-**Back-End**
-- **Languages**: Node.js, Express.js
-- **APIs**: RESTful, GraphQL
-- **Authentication**: JWT, OAuth, sha256
+### Backend
+- Node.js, Express.js, NestJS  
+- RESTful APIs, GraphQL  
+- JWT, OAuth, SHA-256 Authentication  
 
-**Database**
-- **Databases**: MongoDB, MySQL, PostgreSql
+### Databases
+- MongoDB  
+- MySQL, PostgreSQL  
+- Sequelize, Prisma  
+
+### DevOps & Deployment
+- AWS (EC2, S3, CI/CD basics)  
+- Production deployments & environment management  
+- Hosting & server setup (AWS, GoDaddy)
 
 ---
 
-
 ## 📈 GitHub Stats
 
-![Keval's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keval9247&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=14400&v=1)
+![Keval's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keval9247&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keval9247&layout=compact&theme=radical)
 
 ---
 
-## 🔗 Connect with Me
+## 💼 Open for Opportunities
 
-Feel free to reach out and connect with me! I'm always open to discussing web development, collaboration opportunities, and interesting tech projects.
+🔹 **Remote Full Stack Developer Roles**  
+🔹 **Freelance & Contract-Based Projects**  
+🔹 **Long-Term Collaboration with Startups & Agencies**
 
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Keval9247)](https://github.com/Keval9247)
-[![Dev.to Badge](https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white&link=https://dev.to/your-profile)](https://dev.to/your-profile)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@your-profile)](https://medium.com/@KevalBadarakhiya)
-
-
-
-- 📝 **Dev.to Blog**: [Keval Badarakhiya](https://dev.to/kevalbadarakhiya)
+📩 If you’re looking for a **reliable, experienced, and detail-oriented developer**, let’s connect.
 
 ---
 
-Whether you’re looking to connect professionally or have a quick chat about web development, feel free to reach out on any of these platforms!
+## 🔗 Connect With Me
 
+- 🧑‍💻 GitHub: https://github.com/Keval9247  
+- ✍️ Dev.to: https://dev.to/kevalbadarakhiya  
+- 📖 Medium: https://medium.com/@KevalBadarakhiya  
 
 ---
+
+⭐ *Let’s build scalable products, solve real-world problems, and create impact through clean and efficient code.*
