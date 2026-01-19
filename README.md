@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Professional Summary
 
-- ✅ **2+ years of hands-on experience** in full stack web development  
+- ✅ **4+ years of hands-on experience** in full stack web development  
 - ✅ Strong focus on **code quality, scalability, and performance optimization**  
 - ✅ Experienced in building **real-world production applications** (SaaS, eCommerce, dashboards)  
 - ✅ Comfortable working with **remote teams, clients, and agile workflows**  
