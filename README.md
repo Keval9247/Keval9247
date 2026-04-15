@@ -62,9 +62,12 @@ I don't just write code — I **build reliable systems** that scale.
 
 ## 📈 GitHub Stats
 
-![Keval's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keval9247&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=86400)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Keval9247&show_icons=true&theme=radical&count_private=true&include_all_commits=true&hide_border=true" alt="Keval's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keval9247&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keval9247&layout=compact&theme=radical&cache_seconds=86400)
+![GitHub Streak](https://streak-stats.demolab.com?user=Keval9247&theme=radical&hide_border=true)
 
 ---
 
